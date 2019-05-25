@@ -1,0 +1,951 @@
+{
+    "words": [
+        "que",
+        "onda",
+        "buen",
+        "dia",
+        "show",
+        "hol",
+        "tard",
+        "hey",
+        "noch",
+        "com",
+        "estas",
+        "tal",
+        "andas",
+        "te",
+        "encuentr",
+        "llam",
+        "qui",
+        "eres",
+        "dim",
+        "tu",
+        "nombr",
+        "cual",
+        "es",
+        "hac",
+        "par",
+        "viv",
+        "a",
+        "dedic",
+        "opcupacion",
+        "en",
+        "trabaj",
+        "soy",
+        "me",
+        "sab",
+        "conoc"
+    ],
+    "documents": [
+        [
+            [
+                "que",
+                "onda",
+                "buen",
+                "día"
+            ],
+            "_38n2vqxvg"
+        ],
+        [
+            [
+                "que",
+                "onda"
+            ],
+            "_38n2vqxvg"
+        ],
+        [
+            [
+                "que",
+                "show"
+            ],
+            "_38n2vqxvg"
+        ],
+        [
+            [
+                "hola",
+                "buen",
+                "día"
+            ],
+            "_38n2vqxvg"
+        ],
+        [
+            [
+                "hola"
+            ],
+            "_38n2vqxvg"
+        ],
+        [
+            [
+                "que",
+                "show",
+                "buenas",
+                "tardes"
+            ],
+            "_38n2vqxvg"
+        ],
+        [
+            [
+                "hey",
+                "buenas",
+                "tardes"
+            ],
+            "_38n2vqxvg"
+        ],
+        [
+            [
+                "que",
+                "show",
+                "buen",
+                "día"
+            ],
+            "_38n2vqxvg"
+        ],
+        [
+            [
+                "hey"
+            ],
+            "_38n2vqxvg"
+        ],
+        [
+            [
+                "que",
+                "onda",
+                "buenas",
+                "noches"
+            ],
+            "_38n2vqxvg"
+        ],
+        [
+            [
+                "hola",
+                "buenas",
+                "tardes"
+            ],
+            "_38n2vqxvg"
+        ],
+        [
+            [
+                "que",
+                "show",
+                "buenas",
+                "noches"
+            ],
+            "_38n2vqxvg"
+        ],
+        [
+            [
+                "que",
+                "onda",
+                "buenas",
+                "tardes"
+            ],
+            "_38n2vqxvg"
+        ],
+        [
+            [
+                "hola",
+                "buenas",
+                "noches"
+            ],
+            "_38n2vqxvg"
+        ],
+        [
+            [
+                "como",
+                "estas"
+            ],
+            "_w0w8hn8y6"
+        ],
+        [
+            [
+                "hola",
+                "que",
+                "tal",
+                "estas"
+            ],
+            "_w0w8hn8y6"
+        ],
+        [
+            [
+                "que",
+                "show",
+                "como",
+                "estas"
+            ],
+            "_w0w8hn8y6"
+        ],
+        [
+            [
+                "hey",
+                "como",
+                "estas"
+            ],
+            "_w0w8hn8y6"
+        ],
+        [
+            [
+                "como",
+                "andas"
+            ],
+            "_w0w8hn8y6"
+        ],
+        [
+            [
+                "como",
+                "te",
+                "encuentras"
+            ],
+            "_w0w8hn8y6"
+        ],
+        [
+            [
+                "hey",
+                "como",
+                "te",
+                "encuentras"
+            ],
+            "_w0w8hn8y6"
+        ],
+        [
+            [
+                "hola",
+                "como",
+                "te",
+                "encuentras"
+            ],
+            "_w0w8hn8y6"
+        ],
+        [
+            [
+                "que",
+                "show",
+                "como",
+                "andas"
+            ],
+            "_w0w8hn8y6"
+        ],
+        [
+            [
+                "hey",
+                "como",
+                "andas"
+            ],
+            "_w0w8hn8y6"
+        ],
+        [
+            [
+                "que",
+                "onda",
+                "que",
+                "tal",
+                "estas"
+            ],
+            "_w0w8hn8y6"
+        ],
+        [
+            [
+                "que",
+                "show",
+                "que",
+                "tal",
+                "estas"
+            ],
+            "_w0w8hn8y6"
+        ],
+        [
+            [
+                "que",
+                "onda",
+                "como",
+                "te",
+                "encuentras"
+            ],
+            "_w0w8hn8y6"
+        ],
+        [
+            [
+                "que",
+                "tal",
+                "estas"
+            ],
+            "_w0w8hn8y6"
+        ],
+        [
+            [
+                "hey",
+                "que",
+                "tal",
+                "estas"
+            ],
+            "_w0w8hn8y6"
+        ],
+        [
+            [
+                "como",
+                "te",
+                "llamas"
+            ],
+            "_9dsmh2ycz"
+        ],
+        [
+            [
+                "quien",
+                "eres"
+            ],
+            "_9dsmh2ycz"
+        ],
+        [
+            [
+                "dime",
+                "tu",
+                "nombre"
+            ],
+            "_9dsmh2ycz"
+        ],
+        [
+            [
+                "cual",
+                "es",
+                "tu",
+                "nombre"
+            ],
+            "_9dsmh2ycz"
+        ],
+        [
+            [
+                "que",
+                "haces",
+                "para",
+                "vivir"
+            ],
+            "_b8sjpklr4"
+        ],
+        [
+            [
+                "a",
+                "que",
+                "te",
+                "dedicas"
+            ],
+            "_b8sjpklr4"
+        ],
+        [
+            [
+                "cual",
+                "es",
+                "tu",
+                "opcupacion"
+            ],
+            "_b8sjpklr4"
+        ],
+        [
+            [
+                "en",
+                "que",
+                "trabajas"
+            ],
+            "_b8sjpklr4"
+        ],
+        [
+            [
+                "quien",
+                "soy"
+            ],
+            "_sfgsoolx4"
+        ],
+        [
+            [
+                "como",
+                "me",
+                "llamo"
+            ],
+            "_sfgsoolx4"
+        ],
+        [
+            [
+                "sabes",
+                "quien",
+                "soy"
+            ],
+            "_sfgsoolx4"
+        ],
+        [
+            [
+                "me",
+                "conoces"
+            ],
+            "_sfgsoolx4"
+        ]
+    ],
+    "classes": [
+        "_38n2vqxvg",
+        "_w0w8hn8y6",
+        "_9dsmh2ycz",
+        "_b8sjpklr4",
+        "_sfgsoolx4"
+    ],
+    "shape": [
+        35,
+        5
+    ],
+    "intents": {
+        "intents": [
+            {
+                "tag": "_38n2vqxvg",
+                "patterns": [
+                    "que onda buen día",
+                    "que onda",
+                    "que show",
+                    "hola buen día",
+                    "hola",
+                    "que show buenas tardes",
+                    "hey buenas tardes",
+                    "que show buen día",
+                    "hey",
+                    "que onda buenas noches",
+                    "hola buenas tardes",
+                    "que show buenas noches",
+                    "que onda buenas tardes",
+                    "hola buenas noches"
+                ],
+                "responses": [
+                    "Hola!",
+                    "Hey!",
+                    "Que onda",
+                    "Que show"
+                ],
+                "extras": {
+                    "patterns": [
+                        "que onda buen día",
+                        "que onda",
+                        "que show",
+                        "hola buen día",
+                        "hola",
+                        "que show buenas tardes",
+                        "hey buenas tardes",
+                        "que show buen día",
+                        "hey",
+                        "que onda buenas noches",
+                        "hola buenas tardes",
+                        "que show buenas noches",
+                        "que onda buenas tardes",
+                        "hola buenas noches"
+                    ],
+                    "title": "greetings",
+                    "suggestions": [],
+                    "action": "generic",
+                    "type": "text",
+                    "entities": [],
+                    "context": "generic",
+                    "responses": [
+                        "Hola!",
+                        "Hey!",
+                        "Que onda",
+                        "Que show"
+                    ]
+                }
+            },
+            {
+                "tag": "_w0w8hn8y6",
+                "patterns": [
+                    "como estas",
+                    "hola que tal estas",
+                    "que show como estas",
+                    "hey como estas",
+                    "como andas",
+                    "como te encuentras",
+                    "hey como te encuentras",
+                    "hola como te encuentras",
+                    "que show como andas",
+                    "hey como andas",
+                    "que onda que tal estas",
+                    "que show que tal estas",
+                    "que onda como te encuentras",
+                    "que tal estas",
+                    "hey que tal estas"
+                ],
+                "responses": [
+                    "Todo bien",
+                    "Bien gracias",
+                    "Chido Chido",
+                    "Muy bien y tu?",
+                    "Bien gracias y tu?",
+                    "Todo bien y tu?"
+                ],
+                "extras": {
+                    "patterns": [
+                        "como estas",
+                        "hola que tal estas",
+                        "que show como estas",
+                        "hey como estas",
+                        "como andas",
+                        "como te encuentras",
+                        "hey como te encuentras",
+                        "hola como te encuentras",
+                        "que show como andas",
+                        "hey como andas",
+                        "que onda que tal estas",
+                        "que show que tal estas",
+                        "que onda como te encuentras",
+                        "que tal estas",
+                        "hey que tal estas"
+                    ],
+                    "title": "howareyou",
+                    "suggestions": [],
+                    "action": "generic",
+                    "type": "text",
+                    "entities": [],
+                    "context": "generic",
+                    "responses": [
+                        "Todo bien",
+                        "Bien gracias",
+                        "Chido Chido",
+                        "Muy bien y tu?",
+                        "Bien gracias y tu?",
+                        "Todo bien y tu?"
+                    ]
+                }
+            },
+            {
+                "tag": "_9dsmh2ycz",
+                "patterns": [
+                    "como te llamas",
+                    "quien eres",
+                    "dime tu nombre",
+                    "cual es tu nombre"
+                ],
+                "responses": [
+                    "Soy Abraham!",
+                    "Me llamo Abraham",
+                    "Abraham Huerta"
+                ],
+                "extras": {
+                    "patterns": [
+                        "como te llamas",
+                        "quien eres",
+                        "dime tu nombre",
+                        "cual es tu nombre"
+                    ],
+                    "title": "whoareyou",
+                    "suggestions": [],
+                    "action": "whoareyou",
+                    "type": "text",
+                    "entities": [],
+                    "context": "generic",
+                    "responses": [
+                        "Soy Abraham!",
+                        "Me llamo Abraham",
+                        "Abraham Huerta"
+                    ]
+                }
+            },
+            {
+                "tag": "_b8sjpklr4",
+                "patterns": [
+                    "que haces para vivir",
+                    "a que te dedicas",
+                    "cual es tu opcupacion",
+                    "en que trabajas"
+                ],
+                "responses": [
+                    "Mmm, soy ingeniero de software",
+                    "Desarrollo cosas! jaja",
+                    "De todo un poco, pero lo que si es seguro es que soy ingeniero de software"
+                ],
+                "extras": {
+                    "patterns": [
+                        "que haces para vivir",
+                        "a que te dedicas",
+                        "cual es tu opcupacion",
+                        "en que trabajas"
+                    ],
+                    "title": "ocupation",
+                    "suggestions": [],
+                    "action": "ocupation",
+                    "type": "text",
+                    "entities": [],
+                    "context": "generic",
+                    "responses": [
+                        "Mmm, soy ingeniero de software",
+                        "Desarrollo cosas! jaja",
+                        "De todo un poco, pero lo que si es seguro es que soy ingeniero de software"
+                    ]
+                }
+            },
+            {
+                "tag": "_sfgsoolx4",
+                "patterns": [
+                    "quien soy",
+                    "como me llamo",
+                    "sabes quien soy",
+                    "me conoces"
+                ],
+                "responses": [
+                    "Dejame pensar"
+                ],
+                "extras": {
+                    "patterns": [
+                        "quien soy",
+                        "como me llamo",
+                        "sabes quien soy",
+                        "me conoces"
+                    ],
+                    "title": "whoami",
+                    "suggestions": [],
+                    "action": "whoami",
+                    "type": "text",
+                    "entities": [],
+                    "context": "generic",
+                    "responses": [
+                        "Dejame pensar"
+                    ]
+                }
+            }
+        ]
+    },
+    "history": [
+        {
+            "epoch": 0,
+            "log": {
+                "loss": 1.6295239925384521,
+                "acc": 0.2195121943950653
+            }
+        },
+        {
+            "epoch": 0,
+            "log": {
+                "loss": 1.507079005241394,
+                "acc": 0.6097560524940491
+            }
+        },
+        {
+            "epoch": 0,
+            "log": {
+                "loss": 1.4255739450454712,
+                "acc": 0.6097561120986938
+            }
+        },
+        {
+            "epoch": 0,
+            "log": {
+                "loss": 1.3041064739227295,
+                "acc": 0.7317072749137878
+            }
+        },
+        {
+            "epoch": 0,
+            "log": {
+                "loss": 1.2304521799087524,
+                "acc": 0.7317072749137878
+            }
+        },
+        {
+            "epoch": 0,
+            "log": {
+                "loss": 1.1036226749420166,
+                "acc": 0.6829267740249634
+            }
+        },
+        {
+            "epoch": 0,
+            "log": {
+                "loss": 1.025246500968933,
+                "acc": 0.7804877758026123
+            }
+        },
+        {
+            "epoch": 0,
+            "log": {
+                "loss": 0.8668984174728394,
+                "acc": 0.7804877758026123
+            }
+        },
+        {
+            "epoch": 0,
+            "log": {
+                "loss": 0.8057652711868286,
+                "acc": 0.7804877758026123
+            }
+        },
+        {
+            "epoch": 0,
+            "log": {
+                "loss": 0.6845660209655762,
+                "acc": 0.8048779964447021
+            }
+        },
+        {
+            "epoch": 0,
+            "log": {
+                "loss": 0.5935648083686829,
+                "acc": 0.8780487775802612
+            }
+        },
+        {
+            "epoch": 0,
+            "log": {
+                "loss": 0.5345105528831482,
+                "acc": 0.8780487775802612
+            }
+        },
+        {
+            "epoch": 0,
+            "log": {
+                "loss": 0.46996626257896423,
+                "acc": 0.9268292188644409
+            }
+        },
+        {
+            "epoch": 0,
+            "log": {
+                "loss": 0.4169020652770996,
+                "acc": 0.9512194991111755
+            }
+        },
+        {
+            "epoch": 0,
+            "log": {
+                "loss": 0.3455905020236969,
+                "acc": 0.9756097197532654
+            }
+        },
+        {
+            "epoch": 0,
+            "log": {
+                "loss": 0.2871163487434387,
+                "acc": 0.9512194991111755
+            }
+        },
+        {
+            "epoch": 0,
+            "log": {
+                "loss": 0.2506159245967865,
+                "acc": 0.9756097197532654
+            }
+        },
+        {
+            "epoch": 0,
+            "log": {
+                "loss": 0.21765010058879852,
+                "acc": 0.9756097197532654
+            }
+        },
+        {
+            "epoch": 0,
+            "log": {
+                "loss": 0.18425670266151428,
+                "acc": 0.9999999403953552
+            }
+        },
+        {
+            "epoch": 0,
+            "log": {
+                "loss": 0.1487879604101181,
+                "acc": 0.9999999403953552
+            }
+        },
+        {
+            "epoch": 0,
+            "log": {
+                "loss": 0.15566053986549377,
+                "acc": 0.9756097197532654
+            }
+        },
+        {
+            "epoch": 0,
+            "log": {
+                "loss": 0.12659135460853577,
+                "acc": 0.9999999403953552
+            }
+        },
+        {
+            "epoch": 0,
+            "log": {
+                "loss": 0.10000493377447128,
+                "acc": 0.9999999403953552
+            }
+        },
+        {
+            "epoch": 0,
+            "log": {
+                "loss": 0.09370175749063492,
+                "acc": 0.9999999403953552
+            }
+        },
+        {
+            "epoch": 0,
+            "log": {
+                "loss": 0.0783751830458641,
+                "acc": 0.9999999403953552
+            }
+        },
+        {
+            "epoch": 0,
+            "log": {
+                "loss": 0.05986763536930084,
+                "acc": 0.9999999403953552
+            }
+        },
+        {
+            "epoch": 0,
+            "log": {
+                "loss": 0.05686522647738457,
+                "acc": 0.9999999403953552
+            }
+        },
+        {
+            "epoch": 0,
+            "log": {
+                "loss": 0.062160804867744446,
+                "acc": 0.9999999403953552
+            }
+        },
+        {
+            "epoch": 0,
+            "log": {
+                "loss": 0.05758422613143921,
+                "acc": 0.9999999403953552
+            }
+        },
+        {
+            "epoch": 0,
+            "log": {
+                "loss": 0.047347452491521835,
+                "acc": 0.9999999403953552
+            }
+        },
+        {
+            "epoch": 0,
+            "log": {
+                "loss": 0.03680092841386795,
+                "acc": 0.9999999403953552
+            }
+        },
+        {
+            "epoch": 0,
+            "log": {
+                "loss": 0.04098711535334587,
+                "acc": 0.9999999403953552
+            }
+        },
+        {
+            "epoch": 0,
+            "log": {
+                "loss": 0.031191326677799225,
+                "acc": 0.9999999403953552
+            }
+        },
+        {
+            "epoch": 0,
+            "log": {
+                "loss": 0.03366609290242195,
+                "acc": 0.9999999403953552
+            }
+        },
+        {
+            "epoch": 0,
+            "log": {
+                "loss": 0.028991933912038803,
+                "acc": 0.9999999403953552
+            }
+        },
+        {
+            "epoch": 0,
+            "log": {
+                "loss": 0.028554856777191162,
+                "acc": 0.9999999403953552
+            }
+        },
+        {
+            "epoch": 0,
+            "log": {
+                "loss": 0.02435530349612236,
+                "acc": 0.9999999403953552
+            }
+        },
+        {
+            "epoch": 0,
+            "log": {
+                "loss": 0.024197708815336227,
+                "acc": 0.9999999403953552
+            }
+        },
+        {
+            "epoch": 0,
+            "log": {
+                "loss": 0.017955753952264786,
+                "acc": 0.9999999403953552
+            }
+        },
+        {
+            "epoch": 0,
+            "log": {
+                "loss": 0.020822547376155853,
+                "acc": 0.9999999403953552
+            }
+        },
+        {
+            "epoch": 0,
+            "log": {
+                "loss": 0.018415188416838646,
+                "acc": 0.9999999403953552
+            }
+        },
+        {
+            "epoch": 0,
+            "log": {
+                "loss": 0.015484512783586979,
+                "acc": 0.9999999403953552
+            }
+        },
+        {
+            "epoch": 0,
+            "log": {
+                "loss": 0.012350108474493027,
+                "acc": 0.9999999403953552
+            }
+        },
+        {
+            "epoch": 0,
+            "log": {
+                "loss": 0.011079144664108753,
+                "acc": 0.9999999403953552
+            }
+        },
+        {
+            "epoch": 0,
+            "log": {
+                "loss": 0.01672418788075447,
+                "acc": 0.9999999403953552
+            }
+        },
+        {
+            "epoch": 0,
+            "log": {
+                "loss": 0.015806512907147408,
+                "acc": 0.9999999403953552
+            }
+        },
+        {
+            "epoch": 0,
+            "log": {
+                "loss": 0.01000630296766758,
+                "acc": 0.9999999403953552
+            }
+        },
+        {
+            "epoch": 0,
+            "log": {
+                "loss": 0.018283391371369362,
+                "acc": 0.9999999403953552
+            }
+        },
+        {
+            "epoch": 0,
+            "log": {
+                "loss": 0.011865655891597271,
+                "acc": 0.9999999403953552
+            }
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+[
+    {
+        "patterns": [
+            "que onda buen día",
+            "que onda",
+            "que show",
+            "hola buen día",
+            "hola",
+            "que show buenas tardes",
+            "hey buenas tardes",
+            "que show buen día",
+            "hey",
+            "que onda buenas noches",
+            "hola buenas tardes",
+            "que show buenas noches",
+            "que onda buenas tardes",
+            "hola buenas noches"
+        ],
+        "title": "greetings",
+        "suggestions": [],
+        "action": "generic",
+        "type": "text",
+        "entities": [],
+        "context": "generic",
+        "responses": [
+            "Hola!",
+            "Hey!",
+            "Que onda",
+            "Que show"
+        ]
+    },
+    {
+        "patterns": [
+            "como estas",
+            "hola que tal estas",
+            "que show como estas",
+            "hey como estas",
+            "como andas",
+            "como te encuentras",
+            "hey como te encuentras",
+            "hola como te encuentras",
+            "que show como andas",
+            "hey como andas",
+            "que onda que tal estas",
+            "que show que tal estas",
+            "que onda como te encuentras",
+            "que tal estas",
+            "hey que tal estas"
+        ],
+        "title": "howareyou",
+        "suggestions": [],
+        "action": "generic",
+        "type": "text",
+        "entities": [],
+        "context": "generic",
+        "responses": [
+            "Todo bien",
+            "Bien gracias",
+            "Chido Chido",
+            "Muy bien y tu?",
+            "Bien gracias y tu?",
+            "Todo bien y tu?"
+        ]
+    },
+    {
+        "patterns": [
+            "como te llamas",
+            "quien eres",
+            "dime tu nombre",
+            "cual es tu nombre"
+        ],
+        "title": "whoareyou",
+        "suggestions": [],
+        "action": "whoareyou",
+        "type": "text",
+        "entities": [],
+        "context": "generic",
+        "responses": [
+            "Soy Abraham!",
+            "Me llamo Abraham",
+            "Abraham Huerta"
+        ]
+    }
+]

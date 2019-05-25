@@ -1,0 +1,28 @@
+{
+  "name": "pixel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^1.0.2",
+    "chalk": "^2.4.2",
+    "cheerio": "^1.0.0-rc.2",
+    "emoji-strip": "^1.0.1",
+    "figlet": "^1.2.1",
+    "inquirer": "^6.2.2",
+    "lorca-nlp": "^1.0.12",
+    "moment": "^2.24.0",
+    "shuffle-array": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "generate": "node test/generator.js",
+    "train": "node test/train.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

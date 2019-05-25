@@ -1,0 +1,92 @@
+[
+    {
+        "name": "greetings",
+        "template": ":greet :daytimesalute?",
+        "action": "generic",
+        "definitions": [
+            {
+                "name": "greet",
+                "synonyms":  ["Hola","Hey","Que onda", "Que show"]
+            },
+            {
+                "name": "daytimesalute",
+                "synonyms":  ["buen día","buenos dias","buenas tardes","buenas noches"]
+            }
+        ],
+        "responses": [
+            "Hola!",
+            "Hey!",
+            "Que onda",
+            "Que show"
+        ]
+    },
+    {
+        "name": "howareyou",
+        "template": ":greet? :howareyou",
+        "action": "generic",
+        "definitions": [
+            {
+                "name": "greet",
+                "synonyms":  ["Hola","Hey","Que onda", "Que show"]
+            },
+            {
+                "name": "howareyou",
+                "synonyms":  ["como andas","como estas","que tal estas","como te encuentras"]
+            }
+        ],
+        "responses": [
+            "Todo bien",
+            "Bien gracias",
+            "Chido Chido",
+            "Muy bien y tu?",
+            "Bien gracias y tu?",
+            "Todo bien y tu?"
+        ]
+    },
+    {
+        "name": "whoareyou",
+        "template": ":whoareyou",
+        "action": "whoareyou",
+        "definitions": [
+            {
+                "name": "whoareyou",
+                "synonyms":  ["quien eres","como te llamas","cual es tu nombre","dime tu nombre"]
+            }
+        ],
+        "responses": [
+            "Soy Abraham!",
+            "Me llamo Abraham",
+            "Abraham Huerta"
+        ]
+    },
+    {
+        "name": "ocupation",
+        "template": ":ocupation",
+        "action": "ocupation",
+        "definitions": [
+            {
+                "name": "ocupation",
+                "synonyms":  ["a que te dedicas","que haces para vivir","en que trabajas","cual es tu opcupacion"]
+            }
+        ],
+        "responses": [
+            "Mmm, soy ingeniero de software",
+            "Desarrollo cosas! jaja",
+            "De todo un poco, pero lo que si es seguro es que soy ingeniero de software"
+        ]
+    },
+    {
+        "name": "whoami",
+        "template": ":whoami",
+        "action": "whoami",
+        "definitions": [
+            {
+                "name": "whoami",
+                "synonyms":  ["como me llamo","quien soy","me conoces","sabes quien soy"]
+            }
+        ],
+        "responses": [
+            "Dejame pensar"
+        ]
+    }
+]
